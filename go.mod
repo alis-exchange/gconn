@@ -1,4 +1,4 @@
-module github.com/alis-exchange/conn
+module github.com/alis-exchange/gconn
 
 go 1.19
 
